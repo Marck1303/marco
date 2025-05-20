@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(24,22,22);
+}
+
+#cabecera{
+    color: white;
+}
+
+.contenedor-principal{
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+.subtitulos{
+    color: red;
+}
