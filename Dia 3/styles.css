@@ -1,0 +1,46 @@
+body{
+    justify-content: center;
+    background-color:  darkcyan;
+    height: 100vh;
+}
+
+.contenedor{
+display: flex ;
+justify-content: center;
+background-color: red;
+border: blue 1px solid;
+
+}
+
+.caja1{
+    border: 1px solid blue;
+    background-color: aqua ;
+    padding: 30px 20px 30px 10px;
+    margin: 30px 15px 15px 10px ;
+}
+.caja2{
+    border: 1px solid blue;
+    background-color: aqua ;
+    padding: 30px 20px 30px 15px;
+    margin: 30px 10px 15px 15px ;
+
+}
+
+table{
+ border: 1px solid ;
+ border-collapse: collapse;
+ padding: 8px;
+}
+
+thead th{
+    border: solid 2px;
+    padding: 8px;
+}
+
+tbody td{
+    border: solid 2px;
+    padding: 8px;
+}
+.cotainer{
+    height: 100%;
+}
